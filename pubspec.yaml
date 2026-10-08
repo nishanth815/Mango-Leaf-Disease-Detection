@@ -38,7 +38,7 @@ dependencies:
   image_picker: ^1.2.3
 
   # On-device inference + pure-Dart image processing (no network needed)
-  tflite_flutter: ^0.11.0
+    tflite_flutter: ^0.12.1
   image: ^4.2.0
 
 dev_dependencies:
