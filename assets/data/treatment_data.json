@@ -1,0 +1,181 @@
+{
+  "Anthracnose": {
+    "chemical_treatment": [
+      "Use a locally registered fungicide recommended for mango anthracnose.",
+      "Common active-ingredient options may include copper-based fungicides or suitable registered fungicides.",
+      "Follow the product label for dosage, application interval, PPE and pre-harvest interval."
+    ],
+    "organic_treatment": [
+      "Use approved copper-based organic/low-input products where permitted.",
+      "Remove and dispose of severely infected plant material.",
+      "Maintain good air circulation and avoid prolonged leaf wetness."
+    ],
+    "management": [
+      "Remove infected leaves and plant debris.",
+      "Prune overcrowded branches to improve air circulation.",
+      "Avoid unnecessary overhead irrigation.",
+      "Monitor the crop regularly, especially during humid and rainy conditions."
+    ],
+    "severity": {
+      "Mild": "Monitor closely and apply appropriate preventive management.",
+      "Moderate": "Consider treatment with a locally registered fungicide and improve field sanitation.",
+      "Severe": "Prompt treatment and removal of severely infected material are recommended. Seek local agricultural advice."
+    }
+  },
+
+  "Bacterial Canker": {
+    "chemical_treatment": [
+      "Use a locally registered bactericide or copper-based product recommended for mango bacterial diseases.",
+      "Follow the product label and local agricultural recommendations."
+    ],
+    "organic_treatment": [
+      "Use approved copper-based products where permitted.",
+      "Remove severely infected plant parts using clean pruning tools."
+    ],
+    "management": [
+      "Prune infected branches and remove diseased material.",
+      "Disinfect pruning tools between plants.",
+      "Avoid unnecessary mechanical injury to plants.",
+      "Maintain good orchard sanitation."
+    ],
+    "severity": {
+      "Mild": "Remove affected material and monitor the plant.",
+      "Moderate": "Improve sanitation and consider an appropriate registered treatment.",
+      "Severe": "Remove severely affected material and seek local agricultural expert advice."
+    }
+  },
+
+  "Cutting Weevil": {
+    "chemical_treatment": [
+      "Use an insecticide specifically registered for mango cutting weevil in your region.",
+      "Follow the product label for application rate, PPE and harvest restrictions."
+    ],
+    "organic_treatment": [
+      "Remove and destroy affected plant parts where practical.",
+      "Use orchard sanitation and physical removal of visible pests."
+    ],
+    "management": [
+      "Regularly inspect young shoots and leaves.",
+      "Remove and destroy heavily affected plant material.",
+      "Keep the orchard clean and remove fallen or damaged plant material."
+    ],
+    "severity": {
+      "Mild": "Monitor regularly and remove affected plant material.",
+      "Moderate": "Increase monitoring and consider a locally registered control measure.",
+      "Severe": "Take prompt control action and seek local agricultural advice."
+    }
+  },
+
+  "Die Back": {
+    "chemical_treatment": [
+      "Use a locally registered fungicide recommended for mango die-back diseases.",
+      "Copper-based products may be recommended in some regions; follow the local label."
+    ],
+    "organic_treatment": [
+      "Prune affected branches well below visibly diseased tissue.",
+      "Use approved copper-based products where permitted.",
+      "Maintain good orchard sanitation."
+    ],
+    "management": [
+      "Remove dead and severely infected branches.",
+      "Disinfect pruning tools after cutting infected material.",
+      "Avoid waterlogging and excessive moisture around the tree.",
+      "Maintain balanced irrigation and nutrition."
+    ],
+    "severity": {
+      "Mild": "Prune affected material and monitor the tree.",
+      "Moderate": "Prune infected branches and consider an appropriate registered treatment.",
+      "Severe": "Remove severely affected branches and seek professional agricultural advice."
+    }
+  },
+
+  "Gall Midge": {
+    "chemical_treatment": [
+      "Use an insecticide registered for mango gall midge in your region.",
+      "Follow the product label and local agricultural recommendations."
+    ],
+    "organic_treatment": [
+      "Remove heavily affected leaves or shoots where practical.",
+      "Maintain orchard sanitation and monitor for adult insects."
+    ],
+    "management": [
+      "Inspect new leaves and shoots regularly.",
+      "Remove and destroy heavily affected plant material.",
+      "Maintain orchard hygiene.",
+      "Monitor during periods when gall midge activity is high."
+    ],
+    "severity": {
+      "Mild": "Monitor the crop and remove affected material.",
+      "Moderate": "Increase monitoring and consider a registered control method.",
+      "Severe": "Take prompt control action and seek local agricultural advice."
+    }
+  },
+
+  "Healthy": {
+    "chemical_treatment": [
+      "No disease treatment is required based on the detected condition."
+    ],
+    "organic_treatment": [
+      "No disease treatment is required.",
+      "Continue normal organic orchard management."
+    ],
+    "management": [
+      "Continue regular monitoring.",
+      "Maintain proper irrigation and nutrition.",
+      "Keep the orchard clean.",
+      "Maintain good air circulation through appropriate pruning."
+    ],
+    "severity": {
+      "Mild": "No disease treatment required. Continue monitoring.",
+      "Moderate": "No disease treatment required. Continue healthy orchard management.",
+      "Severe": "No disease treatment required. Verify the image if the severity result appears inconsistent with a healthy leaf."
+    }
+  },
+
+  "Powdery Mildew": {
+    "chemical_treatment": [
+      "Use a locally registered fungicide recommended for mango powdery mildew.",
+      "Sulfur-based or other registered fungicides may be used where permitted.",
+      "Follow the product label and local agricultural recommendations."
+    ],
+    "organic_treatment": [
+      "Use approved sulfur-based or other permitted organic products where applicable.",
+      "Improve air circulation through appropriate pruning.",
+      "Remove severely affected plant material where practical."
+    ],
+    "management": [
+      "Monitor young leaves, flowers and developing fruit.",
+      "Improve air circulation in dense canopies.",
+      "Avoid excessive nitrogen fertilization.",
+      "Remove heavily infected material where practical."
+    ],
+    "severity": {
+      "Mild": "Monitor closely and apply appropriate preventive management.",
+      "Moderate": "Consider an appropriate registered fungicide and improve canopy ventilation.",
+      "Severe": "Prompt treatment and orchard management are recommended. Seek local agricultural advice."
+    }
+  },
+
+  "Sooty Mould": {
+    "chemical_treatment": [
+      "Control the underlying sap-sucking insect infestation using a locally registered treatment where necessary.",
+      "Use only products approved for mango and follow the product label."
+    ],
+    "organic_treatment": [
+      "Control scale insects, mealybugs, aphids or other honeydew-producing pests using approved methods.",
+      "Wash or gently clean affected surfaces where practical.",
+      "Encourage beneficial insects through appropriate integrated pest management."
+    ],
+    "management": [
+      "Identify and control the insect producing honeydew.",
+      "Remove heavily affected plant material where practical.",
+      "Improve orchard sanitation.",
+      "Monitor for recurring insect infestations."
+    ],
+    "severity": {
+      "Mild": "Monitor and control the underlying insect infestation.",
+      "Moderate": "Increase pest control and improve orchard sanitation.",
+      "Severe": "Promptly control the underlying pest infestation and seek agricultural advice."
+    }
+  }
+}
